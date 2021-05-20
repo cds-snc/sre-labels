@@ -40,33 +40,33 @@ module.exports = [
     "alias": []
   },
   {
-    "description": "Documentation",
+    "description": "",
     "color": colors.githubBlue,
-    "name": "",
+    "name": "Documentation",
     "alias": []
   },
   {
-    "description": "Security | Sécurité",
+    "description": "",
     "color": colors.githubPurple,
-    "name": "",
+    "name": "Security | Sécurité",
     "alias": []
   },
   {
-    "description": "Privacy | Vie privée",
+    "description": "",
     "color": colors.githubTeal,
-    "name": "",
+    "name": "Privacy | Vie privée",
     "alias": []
   },
   {
-    "description": "Wont fix | Ne résoudra pas",
+    "description": "",
     "color": colors.githubWhite,
-    "name": "",
+    "name": "Wont fix | Ne résoudra pas",
     "alias": []
   },
   {
-    "description": "Accessiblity | Accessibilité",
+    "description": "",
     "color": colors.githubMagenta,
-    "name": "",
+    "name": "Accessiblity | Accessibilité",
     "alias": []
   },
 ];
