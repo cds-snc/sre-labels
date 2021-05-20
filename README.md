@@ -30,7 +30,7 @@ jobs:
 You can do this by running the following command from a repo:
 
 ```bash
-mkdir -p .github/workflows && curl https://raw.githubusercontent.com/Financial-Times/rel-eng-labels/v1/example.yml --output .github/workflows/sync-repo-labels.yml
+mkdir -p .github/workflows && curl https://raw.githubusercontent.com/cds-snc/labels/v1/example.yml --output .github/workflows/sync-repo-labels.yml
 ```
 ## Labels
 
