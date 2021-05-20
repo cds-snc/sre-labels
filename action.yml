@@ -1,0 +1,9 @@
+name: labels
+description: Sync a repo's issue labels with the CDS Github Standard Labels
+inputs:
+  github-token:
+    description: The GitHub token used to sync labels
+    required: true
+runs:
+  using: node12
+  main: index.js
