@@ -14,7 +14,7 @@ To use this action, create the following file in your GitHub repo:
 ```
 
 ```yml
-on: [issues, pull_request]
+on: [issues, pull_request, workflow_dispatch]
 jobs:
   sync-labels:
     runs-on: ubuntu-latest
