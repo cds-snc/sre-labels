@@ -98,7 +98,7 @@ module.exports = [
     "color": colors.sreLightGrey,
     "name": "Azure",
     "alias": []
-  }
+  },
   {
     "description": "",
     "color": colors.sreGrey,
