@@ -94,6 +94,12 @@ module.exports = [
     "alias": []
   },
   {
+    "description": "Service provider",
+    "color": colors.sreLightGrey,
+    "name": "Azure",
+    "alias": []
+  }
+  {
     "description": "",
     "color": colors.sreGrey,
     "name": "Dependencies",
@@ -103,12 +109,6 @@ module.exports = [
     "description": "Documentation",
     "color": colors.srePink,
     "name": "Documentation",
-    "alias": []
-  },
-  {
-    "description": "Business Unit",
-    "color": colors.sreLightGrey,
-    "name": "Exposure Notificatios",
     "alias": []
   },
   {
@@ -142,12 +142,6 @@ module.exports = [
     "alias": []
   },
   {
-    "description": "Service provider",
-    "color": colors.sreBlue,
-    "name": "OpsGenie",
-    "alias": []
-  },
-  {
     "description": "Business Unit",
     "color": colors.srePurplish,
     "name": "Partnerships",
@@ -169,12 +163,6 @@ module.exports = [
     "description": "Actual post-mortem",
     "color": colors.sreYellowish,
     "name": "Post-mortem",
-    "alias": []
-  },
-  {
-    "description": "Phase",
-    "color": colors.sreRedish,
-    "name": "Production",
     "alias": []
   },
   {
