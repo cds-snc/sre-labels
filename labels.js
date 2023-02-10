@@ -28,7 +28,15 @@ const colors = {
   sreRedish: 'EF4683',
   sreOrangish: 'CA8D8D',
   sreOrangey: 'f9d0c4',
-  sreBlue: '194B9B'
+  sreBlue: '194B9B',
+  rrCritical: 'B60205',
+  rrForms: 'C5DEF5',
+  rrHigh: 'D93F0B',
+  rrLow: 'FEF2C0',
+  rrMedium: 'FBCA04',
+  rrNotify: 'BFD4F2',
+  rrVulnerability: '53E2E4',
+  rrGoogleWorkspace: '4285F4',
 };
 
 // Create and export the labels
@@ -199,6 +207,60 @@ module.exports = [
     "description": "Candidates for automation",
     "color": colors.sreGrey,
     "name": "Toil",
+    "alias": []
+  },
+  {
+    "description": "Critical severity",
+    "color": colors.rrCritical,
+    "name": "Critical | Critique",
+    "alias": []
+  },
+  {
+    "description": "GC Forms - Formulaires GC",
+    "color": colors.rrForms,
+    "name": "Forms | Formulaires",
+    "alias": []
+  },
+  {
+    "description": "High severity",
+    "color": colors.rrHigh,
+    "name": "High | Élevée",
+    "alias": []
+  },
+  {
+    "description": "Low severity",
+    "color": colors.rrLow,
+    "name": "Low | Basse",
+    "alias": []
+  },
+  {
+    "description": "",
+    "color": colors.sreGrey,
+    "name": "Medium | Modérée",
+    "alias": []
+  },
+  {
+    "description": "Medium severity",
+    "color": colors.rrMedium,
+    "name": "Medium | Modérée",
+    "alias": []
+  },
+  {
+    "description": "GC Notify - Notification GC",
+    "color": colors.rrNotify,
+    "name": "Notify | Notification",
+    "alias": []
+  },
+  {
+    "description": "",
+    "color": colors.rrVulnerability,
+    "name": "Vulnerability Assessment",
+    "alias": []
+  },
+  {
+    "description": "",
+    "color": colors.rrGoogleWorkspace,
+    "name": "Google Workspace",
     "alias": []
   },
 ];
