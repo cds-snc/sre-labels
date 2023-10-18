@@ -67,12 +67,6 @@ module.exports = [
   },
   {
     "description": "",
-    "color": colors.githubBlue,
-    "name": "Documentation",
-    "alias": []
-  },
-  {
-    "description": "",
     "color": colors.githubPurple,
     "name": "Security | Sécurité",
     "alias": []
@@ -231,12 +225,6 @@ module.exports = [
     "description": "Low severity",
     "color": colors.rrLow,
     "name": "Low | Basse",
-    "alias": []
-  },
-  {
-    "description": "",
-    "color": colors.sreGrey,
-    "name": "Medium | Modérée",
     "alias": []
   },
   {
