@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sre-label
+  description: 'GitHub action to sync a reposissue labels with the set defined in RFC 0003 CDS Github Label Standard.'
+  labels:
+    license: MIT
+  tags:
+    - "github-action"
+spec:
+  type: library
+  lifecycle: experimental
+  owner: cds-snc
+  owner: group:cds-snc/internal-sre
+  domain: site-reliability-engineering
+  system: cds-alm
