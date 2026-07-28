@@ -45,210 +45,210 @@ module.exports = [
     "description": "",
     "color": colors.githubGreen,
     "name": "High Priority | Haute priorité",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubYellow,
     "name": "Medium Priority  | Priorité moyenne",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubGris,
     "name": "Low Priority | Faible priorité",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubRed,
     "name": "Bug | Bogue",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubPurple,
     "name": "Security | Sécurité",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubTeal,
     "name": "Privacy | Vie privée",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubWhite,
     "name": "Wont fix | Ne résoudra pas",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.githubMagenta,
     "name": "Accessiblity | Accessibilité",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Service provider",
     "color": colors.sreYellow,
     "name": "AWS",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Service provider",
     "color": colors.sreLightGrey,
     "name": "Azure",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.sreGrey,
     "name": "Dependencies",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Documentation",
     "color": colors.srePink,
     "name": "Documentation",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Service provider",
     "color": colors.sreAqua,
     "name": "GitHub",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Issues we are exploring",
     "color": colors.sreOrange,
     "name": "Investigation",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Things that make Internal SRE work",
     "color": colors.sreGreyish,
     "name": "Nuts and bolts",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Activity",
     "color": colors.sreViolet,
     "name": "On-call",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Business Unit",
     "color": colors.srePurple,
     "name": "Operations",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Business Unit",
     "color": colors.srePurplish,
     "name": "Partnerships",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Business Unit",
     "color": colors.sreRed,
     "name": "Platform",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Learnings from post-mortems",
     "color": colors.sreGreellow,
     "name": "Post-mortem learning",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Actual post-mortem",
     "color": colors.sreYellowish,
     "name": "Post-mortem",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.sreGrey,
     "name": "Renovate",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Catch-all for low maintenance SaaS products",
     "color": colors.sreOrangish,
     "name": "SaaS",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Security Hub issue to be triaged",
     "color": colors.sreOrangey,
     "name": "Security Hub",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Issues related to the SRE bot",
     "color": colors.sreAqua,
     "name": "SRE Bot",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.sreGrey,
     "name": "sync",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Candidates for automation",
     "color": colors.sreGrey,
     "name": "Toil",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Critical severity",
     "color": colors.rrCritical,
     "name": "Critical | Critique",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "GC Forms - Formulaires GC",
     "color": colors.rrForms,
     "name": "Forms | Formulaires",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "High severity",
     "color": colors.rrHigh,
     "name": "High | Élevée",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Low severity",
     "color": colors.rrLow,
     "name": "Low | Basse",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "Medium severity",
     "color": colors.rrMedium,
     "name": "Medium | Modérée",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "GC Notify - Notification GC",
     "color": colors.rrNotify,
     "name": "Notify | Notification",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.rrVulnerability,
     "name": "Vulnerability Assessment",
-    "alias": []
+    "aliases": []
   },
   {
     "description": "",
     "color": colors.rrGoogleWorkspace,
     "name": "Google Workspace",
-    "alias": []
+    "aliases": []
   },
 ];
